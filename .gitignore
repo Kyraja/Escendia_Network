@@ -1,0 +1,9 @@
+/.metadata/
+/RemoteSystemsTempFiles/
+/.recommenders/
+/build/
+/bin/
+/.gradle/
+/.idea/
+/plugins/
+/out/
